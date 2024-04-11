@@ -1,1 +1,28 @@
 /* Place CSS styles here */
+div {
+    font-family:'Avenir LT W01 65 Medium';
+}
+.graphic {
+    font-size: 100px;
+    margin-left: 75px;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: auto;
+
+}
+
+
+.nir {
+    margin-left: 250px;
+    font-size: 100px;
+    margin-top: 0px;
+    margin-bottom: auto;
+}
+
+.ave {
+    font-size: 100px;
+    margin-left: 75px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-top: auto;
+}
